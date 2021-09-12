@@ -20,8 +20,11 @@ Following tasks were performed for the project:
 
 ## Folder Descriptions <a name="filedescriptions"></a>
 *images* folder consists of images for testing on trained models
+
 *haarcascades* folder consists of pre-trained face detector based on haar feature
+
 *requirements* folder consists of .yml and .txt files enlisting package requirements on different operating systems for running the jupyter notebook
+
 *saved_models* folder consists of transfer learning models trained based on bottleneck features from VGG16 and Resnet50
 
 ## Results<a name="results"></a>
