@@ -30,5 +30,5 @@ Following tasks were performed for the project:
 ## Results<a name="results"></a>
 The main findings of this work can be found on my [Medium blog](https://ankit-patel03.medium.com/who-let-the-dogs-breed-out-who-who-convolutional-neural-network-a2815c586641)
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-I would also like to acknowledge Udacity Data Scientist Nanodegree instructors for creating and teaching the Data Scientist Nanodegree program and thus providing a holistic view of data science field.
+## Acknowledgements<a name="licensing"></a>
+I would like to acknowledge Udacity Data Scientist Nanodegree instructors for creating and teaching the Data Scientist Nanodegree program and thus providing a holistic view of data science field.
