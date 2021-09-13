@@ -5,7 +5,7 @@
 1. [Project Motivation](#motivation)
 2. [File Descriptions](#filedescriptions)
 2. [Results](#results)
-4. [Licensing, Authors, and Acknowledgements](#licensing)
+4. [Acknowledgements](#licensing)
 
 ## Project Motivation<a name="motivation"></a>
 This is my Capstone Project submission for Udacity Nanodegree. A dog breed image data was made available with 8352 images spread across 133 categories and the goal was to train a classifier for identifying breed of a dog in a given image. 
@@ -28,7 +28,14 @@ Following tasks were performed for the project:
 *saved_models* folder consists of transfer learning models trained based on bottleneck features from VGG16 and Resnet50
 
 ## Results<a name="results"></a>
+
+The performance of each of the CNNs on test set is summarized as follows:
+
+1. CNN trained from scratch: 5.5% accuracy  
+2. Neural net trained with bottleneck features from VGG16: 41.87% accuracy
+3. Neural net trained with bottleneck features from Resnet50: 80.02% accuracy
+
 The main findings of this work can be found on my [Medium blog](https://ankit-patel03.medium.com/who-let-the-dogs-breed-out-who-who-convolutional-neural-network-a2815c586641)
 
 ## Acknowledgements<a name="licensing"></a>
-I would like to acknowledge Udacity Data Scientist Nanodegree instructors for creating and teaching the Data Scientist Nanodegree program and thus providing a holistic view of data science field.
+I would also like to acknowledge Udacity Data Scientist Nanodegree instructors for creating and teaching the Data Scientist Nanodegree program and thus providing a holistic overview of data science.  
